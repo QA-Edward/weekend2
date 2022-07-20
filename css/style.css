@@ -67,7 +67,7 @@ table {
 	font-size: 80px;
 	line-height: 106px;
 	color: #FFFFFF;
-	font-weight: Black Italic;
+	font-weight: bold;
 }
 
 .header p{
@@ -108,6 +108,7 @@ table {
 	text-align: center;
 	padding-top: 56px;
 	margin-bottom: 40px;
+	font-weight: bold;
 }
 
 .personal img{
@@ -177,6 +178,7 @@ table {
 	font-family: Roboto;
 	text-align: center;
 	padding-top: 56px;
+	font-weight: bold;
 }
 
 .mybrand p{
@@ -222,6 +224,7 @@ table {
 	text-align: center;
 	color: #000000;
 	padding-top: 56px;
+	font-weight: bold;
 }
 
 .work h3{
@@ -263,6 +266,7 @@ table {
 	text-align: center;
 	color: #FFFFFF;
 	padding-top: 64px;
+	font-weight: bold;
 }
 
 .contact p{
